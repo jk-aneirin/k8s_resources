@@ -1,0 +1,2 @@
+使用两种方式实现k8s cluster DNS:skyDNS+etcd+kube2sky;kube-dns+dnsmasq+exechealthz
+DNS的service文件可以重用，都是kubedns-svc.yml
